@@ -46,8 +46,13 @@ Quem já fez Álgebra Linear deve refazer. Caso já tenha feito o TCC, procure a
 
 Sim, as principais são Cálculo I com 6 créditos e LPT II. 
 
-- A equivalência com o Cálculo I pode ser obtida cursando ou Cálculo B (da matemática) ou Calculo III (na engenharia).
+- A equivalência com o Cálculo I pode ser obtida cursando ou Cálculo B (da matemática) ou Cálculo III (na engenharia).
 - LPT II será ofertada por outros cursos.
+
+### O que devo fazer para me matricular em Cálculo B ou Cálculo III?
+
+- Como Cálculo III tem apenas Cálculo II como pré requisito, para cursar Cálculo III é apenas necessário cursar Cálculo II.
+- Para cursar Cálculo B é necessário pedir quebra de pré-requisito e inclusão manual, durante o período de matrícula. 
 
 ### Devo migrar para o PPC novo?
 
