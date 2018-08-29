@@ -42,6 +42,13 @@ Para saber a diferença entre os cursos, leia os 2 PPCs, disponíveis no [Site I
 Sim, quase todas. As únicas que não validam são Álgebra Linear e os TCCs.
 Quem já fez Álgebra Linear deve refazer. Caso já tenha feito o TCC, procure a coordenação do curso.
 
+### Existe matéria do PPC antigo que deixará de ser ofertada?
+
+Sim, as principais são Cálculo I com 6 créditos e LPT II. 
+
+- A equivalência com o Cálculo I pode ser obtida cursando ou Cálculo B (da matemática) ou Calculo III (na engenharia).
+- LPT II será ofertada por outros cursos.
+
 ### Devo migrar para o PPC novo?
 
 A princípio, você não deve migrar para o PPC novo.
