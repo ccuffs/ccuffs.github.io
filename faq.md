@@ -44,7 +44,5 @@ Quem já fez Álgebra Linear deve refazer. Caso já tenha feito o TCC, procure a
 
 ### Devo migrar para o PPC novo?
 
-Existem 3 possibilidades:
-1. Se você já fez cálculo 1, você não precisa. 
-2. Se você não fez cálculo 1, e não fez TCC, deve mudar antes de cursar TCC.
-3. Se você não fez cálculo 1, e fez algum TCC, não deve mudar sem conversar com a coordenação.
+A princípio, você não deve migrar para o PPC novo.
+Deve considerar a mudança para o novo PPC apenas quem está com dificuldades para conseguir disciplinas no período de __AJUSTE__.
