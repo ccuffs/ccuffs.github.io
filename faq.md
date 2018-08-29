@@ -52,7 +52,7 @@ Sim, as principais são Cálculo I com 6 créditos e LPT II.
 ### O que devo fazer para me matricular em Cálculo B ou Cálculo III?
 
 - Como Cálculo III tem apenas Cálculo II como pré requisito, para cursar Cálculo III é apenas necessário cursar Cálculo II.
-- Para cursar Cálculo B é necessário pedir quebra de pré-requisito e inclusão manual, durante o período de matrícula. 
+- Para cursar Cálculo B é necessário pedir quebra de pré-requisito e inclusão manual, durante o período de matrícula. É preciso ter cursado Cálculo I com 4 créditos.
 
 ### Devo migrar para o PPC novo?
 
