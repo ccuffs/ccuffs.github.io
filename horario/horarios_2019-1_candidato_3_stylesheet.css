@@ -1,0 +1,625 @@
+﻿@charset "UTF-8";
+
+/* CSS Stylesheet of horarios_2019-1_candidato_3.fet
+   Stylesheet generated with FET 5.37.2 on 10/22/18 9:55 PM */
+
+/* To do a page-break only after every second timetable, delete "page-break-before: always;" in "table.even_table". */
+/* Delete "page-break-before: always;" in "table.even_table" and in "table.odd_table" to skip page-breaks. */
+/* To hide an element just write the following phrase into the element: "display:none;" (without quotes). */
+
+p.back {
+  margin-top: 4ex;
+  margin-bottom: 5ex;
+}
+
+table {
+  text-align: center;
+  page-break-inside: avoid;
+}
+
+table.odd_table {
+  page-break-before: always;
+}
+
+table.even_table {
+  page-break-before: always;
+}
+
+table.detailed {
+  margin-left:auto; margin-right:auto;
+  text-align: center;
+  border: 0px;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+caption {
+
+}
+
+thead {
+
+}
+
+/* Some programs import "tfoot" incorrectly. So we use "tr.foot" instead of "tfoot". */
+
+tr.foot {
+
+}
+
+tbody {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+td.detailed {
+  border: 1px dashed silver;
+  border-bottom: 0;
+  border-top: 0;
+}
+
+th.xAxis {
+/* width: 8em; */
+}
+
+th.yAxis {
+  height: 8ex;
+}
+
+td.c_1 { /* Activity id: 1 (subject) */
+ background-color: rgb(233, 142, 249);
+ color: black;
+}
+
+td.c_2 { /* Activity id: 3 (subject) */
+ background-color: rgb(195, 175, 187);
+ color: black;
+}
+
+td.c_3 { /* Activity id: 5 (subject) */
+ background-color: rgb(176, 27, 4);
+ color: white;
+}
+
+td.c_4 { /* Activity id: 7 (subject) */
+ background-color: rgb(114, 59, 174);
+ color: white;
+}
+
+td.c_5 { /* Activity id: 8 (subject) */
+ background-color: rgb(195, 109, 116);
+ color: black;
+}
+
+td.c_6 { /* Activity id: 9 (subject) */
+ background-color: rgb(67, 192, 39);
+ color: black;
+}
+
+td.c_7 { /* Activity id: 10 (subject) */
+ background-color: rgb(37, 53, 95);
+ color: white;
+}
+
+td.c_8 { /* Activity id: 11 (subject) */
+ background-color: rgb(104, 96, 184);
+ color: white;
+}
+
+td.c_9 { /* Activity id: 12 (subject) */
+ background-color: rgb(25, 138, 84);
+ color: white;
+}
+
+td.c_10 { /* Activity id: 14 (subject) */
+ background-color: rgb(63, 208, 254);
+ color: black;
+}
+
+td.c_11 { /* Activity id: 16 (subject) */
+ background-color: rgb(88, 7, 0);
+ color: white;
+}
+
+td.c_12 { /* Activity id: 18 (subject) */
+ background-color: rgb(226, 115, 170);
+ color: black;
+}
+
+td.c_13 { /* Activity id: 20 (subject) */
+ background-color: rgb(34, 243, 58);
+ color: black;
+}
+
+td.c_14 { /* Activity id: 22 (subject) */
+ background-color: rgb(145, 131, 195);
+ color: black;
+}
+
+td.c_15 { /* Activity id: 24 (subject) */
+ background-color: rgb(65, 187, 184);
+ color: black;
+}
+
+td.c_16 { /* Activity id: 30 (subject) */
+ background-color: rgb(118, 225, 60);
+ color: black;
+}
+
+td.c_17 { /* Activity id: 31 (subject) */
+ background-color: rgb(225, 93, 122);
+ color: black;
+}
+
+td.c_18 { /* Activity id: 33 (subject) */
+ background-color: rgb(135, 164, 144);
+ color: black;
+}
+
+td.c_19 { /* Activity id: 34 (subject) */
+ background-color: rgb(19, 80, 221);
+ color: white;
+}
+
+td.c_20 { /* Activity id: 36 (subject) */
+ background-color: rgb(113, 113, 16);
+ color: white;
+}
+
+td.c_21 { /* Activity id: 38 (subject) */
+ background-color: rgb(68, 128, 189);
+ color: white;
+}
+
+td.c_22 { /* Activity id: 40 (subject) */
+ background-color: rgb(90, 157, 174);
+ color: black;
+}
+
+td.c_23 { /* Activity id: 42 (subject) */
+ background-color: rgb(42, 5, 201);
+ color: white;
+}
+
+td.c_24 { /* Activity id: 44 (subject) */
+ background-color: rgb(38, 62, 168);
+ color: white;
+}
+
+td.c_25 { /* Activity id: 46 (subject) */
+ background-color: rgb(234, 240, 160);
+ color: black;
+}
+
+td.c_26 { /* Activity id: 48 (subject) */
+ background-color: rgb(177, 111, 77);
+ color: white;
+}
+
+td.c_27 { /* Activity id: 50 (subject) */
+ background-color: rgb(115, 251, 65);
+ color: black;
+}
+
+td.c_28 { /* Activity id: 51 (subject) */
+ background-color: rgb(153, 146, 67);
+ color: black;
+}
+
+td.c_29 { /* Activity id: 55 (subject) */
+ background-color: rgb(233, 219, 117);
+ color: black;
+}
+
+td.c_30 { /* Activity id: 57 (subject) */
+ background-color: rgb(24, 187, 145);
+ color: black;
+}
+
+td.c_31 { /* Activity id: 59 (subject) */
+ background-color: rgb(219, 173, 33);
+ color: black;
+}
+
+td.c_32 { /* Activity id: 61 (subject) */
+ background-color: rgb(66, 60, 232);
+ color: white;
+}
+
+td.c_33 { /* Activity id: 63 (subject) */
+ background-color: rgb(93, 131, 196);
+ color: white;
+}
+
+td.c_34 { /* Activity id: 65 (subject) */
+ background-color: rgb(107, 35, 143);
+ color: white;
+}
+
+td.c_35 { /* Activity id: 66 (subject) */
+ background-color: rgb(197, 255, 83);
+ color: black;
+}
+
+td.c_36 { /* Activity id: 67 (subject) */
+ background-color: rgb(158, 53, 40);
+ color: white;
+}
+
+td.c_37 { /* Activity id: 68 (subject) */
+ background-color: rgb(198, 248, 29);
+ color: black;
+}
+
+td.c_38 { /* Activity id: 69 (subject) */
+ background-color: rgb(114, 239, 231);
+ color: black;
+}
+
+td.c_39 { /* Activity id: 72 (subject) */
+ background-color: rgb(52, 140, 77);
+ color: white;
+}
+
+td.c_40 { /* Activity id: 73 (subject) */
+ background-color: rgb(120, 182, 73);
+ color: black;
+}
+
+td.c_41 { /* Activity id: 75 (subject) */
+ background-color: rgb(99, 62, 81);
+ color: white;
+}
+
+td.c_42 { /* Activity id: 1 (subject+students) */
+ background-color: rgb(227, 133, 166);
+ color: black;
+}
+
+td.c_43 { /* Activity id: 3 (subject+students) */
+ background-color: rgb(38, 178, 201);
+ color: black;
+}
+
+td.c_44 { /* Activity id: 5 (subject+students) */
+ background-color: rgb(174, 163, 231);
+ color: black;
+}
+
+td.c_45 { /* Activity id: 7 (subject+students) */
+ background-color: rgb(190, 38, 154);
+ color: white;
+}
+
+td.c_46 { /* Activity id: 8 (subject+students) */
+ background-color: rgb(131, 171, 72);
+ color: black;
+}
+
+td.c_47 { /* Activity id: 9 (subject+students) */
+ background-color: rgb(248, 138, 88);
+ color: black;
+}
+
+td.c_48 { /* Activity id: 10 (subject+students) */
+ background-color: rgb(226, 119, 236);
+ color: black;
+}
+
+td.c_49 { /* Activity id: 11 (subject+students) */
+ background-color: rgb(125, 158, 187);
+ color: black;
+}
+
+td.c_50 { /* Activity id: 12 (subject+students) */
+ background-color: rgb(131, 197, 72);
+ color: black;
+}
+
+td.c_51 { /* Activity id: 14 (subject+students) */
+ background-color: rgb(28, 116, 56);
+ color: white;
+}
+
+td.c_52 { /* Activity id: 16 (subject+students) */
+ background-color: rgb(166, 225, 200);
+ color: black;
+}
+
+td.c_53 { /* Activity id: 18 (subject+students) */
+ background-color: rgb(206, 222, 158);
+ color: black;
+}
+
+td.c_54 { /* Activity id: 20 (subject+students) */
+ background-color: rgb(67, 199, 186);
+ color: black;
+}
+
+td.c_55 { /* Activity id: 22 (subject+students) */
+ background-color: rgb(88, 41, 87);
+ color: white;
+}
+
+td.c_56 { /* Activity id: 24 (subject+students) */
+ background-color: rgb(65, 238, 213);
+ color: black;
+}
+
+td.c_57 { /* Activity id: 30 (subject+students) */
+ background-color: rgb(135, 146, 50);
+ color: black;
+}
+
+td.c_58 { /* Activity id: 31 (subject+students) */
+ background-color: rgb(49, 101, 85);
+ color: white;
+}
+
+td.c_59 { /* Activity id: 32 (subject+students) */
+ background-color: rgb(111, 73, 209);
+ color: white;
+}
+
+td.c_60 { /* Activity id: 33 (subject+students) */
+ background-color: rgb(0, 99, 12);
+ color: white;
+}
+
+td.c_61 { /* Activity id: 34 (subject+students) */
+ background-color: rgb(159, 167, 143);
+ color: black;
+}
+
+td.c_62 { /* Activity id: 36 (subject+students) */
+ background-color: rgb(143, 199, 29);
+ color: black;
+}
+
+td.c_63 { /* Activity id: 38 (subject+students) */
+ background-color: rgb(182, 175, 86);
+ color: black;
+}
+
+td.c_64 { /* Activity id: 40 (subject+students) */
+ background-color: rgb(134, 24, 234);
+ color: white;
+}
+
+td.c_65 { /* Activity id: 42 (subject+students) */
+ background-color: rgb(135, 67, 82);
+ color: white;
+}
+
+td.c_66 { /* Activity id: 44 (subject+students) */
+ background-color: rgb(8, 39, 162);
+ color: white;
+}
+
+td.c_67 { /* Activity id: 46 (subject+students) */
+ background-color: rgb(161, 6, 67);
+ color: white;
+}
+
+td.c_68 { /* Activity id: 48 (subject+students) */
+ background-color: rgb(21, 167, 223);
+ color: black;
+}
+
+td.c_69 { /* Activity id: 50 (subject+students) */
+ background-color: rgb(126, 66, 208);
+ color: white;
+}
+
+td.c_70 { /* Activity id: 51 (subject+students) */
+ background-color: rgb(141, 59, 17);
+ color: white;
+}
+
+td.c_71 { /* Activity id: 53 (subject+students) */
+ background-color: rgb(156, 87, 219);
+ color: white;
+}
+
+td.c_72 { /* Activity id: 55 (subject+students) */
+ background-color: rgb(218, 127, 104);
+ color: black;
+}
+
+td.c_73 { /* Activity id: 57 (subject+students) */
+ background-color: rgb(129, 50, 169);
+ color: white;
+}
+
+td.c_74 { /* Activity id: 59 (subject+students) */
+ background-color: rgb(34, 170, 242);
+ color: black;
+}
+
+td.c_75 { /* Activity id: 61 (subject+students) */
+ background-color: rgb(254, 63, 122);
+ color: white;
+}
+
+td.c_76 { /* Activity id: 63 (subject+students) */
+ background-color: rgb(106, 215, 28);
+ color: black;
+}
+
+td.c_77 { /* Activity id: 65 (subject+students) */
+ background-color: rgb(5, 89, 55);
+ color: white;
+}
+
+td.c_78 { /* Activity id: 66 (subject+students) */
+ background-color: rgb(145, 196, 54);
+ color: black;
+}
+
+td.c_79 { /* Activity id: 67 (subject+students) */
+ background-color: rgb(133, 84, 122);
+ color: white;
+}
+
+td.c_80 { /* Activity id: 68 (subject+students) */
+ background-color: rgb(214, 165, 230);
+ color: black;
+}
+
+td.c_81 { /* Activity id: 69 (subject+students) */
+ background-color: rgb(229, 127, 53);
+ color: black;
+}
+
+td.c_82 { /* Activity id: 70 (subject+students) */
+ background-color: rgb(114, 172, 166);
+ color: black;
+}
+
+td.c_83 { /* Activity id: 71 (subject+students) */
+ background-color: rgb(196, 74, 24);
+ color: white;
+}
+
+td.c_84 { /* Activity id: 72 (subject+students) */
+ background-color: rgb(223, 186, 30);
+ color: black;
+}
+
+td.c_85 { /* Activity id: 73 (subject+students) */
+ background-color: rgb(42, 177, 114);
+ color: black;
+}
+
+td.c_86 { /* Activity id: 75 (subject+students) */
+ background-color: rgb(240, 169, 244);
+ color: black;
+}
+
+span.subject {
+
+}
+
+span.activitytag {
+
+}
+
+span.empty {
+  color: gray;
+}
+
+td.empty {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+span.notAvailable {
+  color: gray;
+}
+
+td.notAvailable {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+span.break {
+  color: gray;
+}
+
+td.break {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+tr.studentsset, div.studentsset {
+
+}
+
+tr.teacher, div.teacher {
+
+}
+
+tr.room, div.room {
+
+}
+
+tr.line0, div.line0 {
+  font-size: smaller;
+}
+
+tr.line1, div.line1 {
+
+}
+
+tr.line2, div.line2 {
+  font-size: smaller;
+}
+
+tr.line3, div.line3 {
+  font-size: smaller;
+}
+
+/* Style the teachers' free periods */
+
+div.DESCRIPTION {
+  text-align: left;
+  font-size: smaller;
+}
+
+div.TEACHER_HAS_SINGLE_GAP {
+  color: black;
+}
+
+div.TEACHER_HAS_BORDER_GAP {
+  color: gray;
+}
+
+div.TEACHER_HAS_BIG_GAP {
+  color: silver;
+}
+
+div.TEACHER_MUST_COME_EARLIER {
+  color: purple;
+}
+
+div.TEACHER_MUST_COME_MUCH_EARLIER {
+  font-size: smaller;
+  color: fuchsia;
+}
+
+div.TEACHER_MUST_STAY_LONGER {
+  color: teal;
+}
+
+div.TEACHER_MUST_STAY_MUCH_LONGER {
+  font-size: smaller;
+  color: aqua;
+}
+
+div.TEACHER_HAS_A_FREE_DAY {
+  font-size: smaller;
+  color: red;
+}
+
+div.TEACHER_IS_NOT_AVAILABLE {
+  font-size: smaller;
+  color: olive;
+}
+
+/* End of file. */
