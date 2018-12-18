@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tópicos em Jogos Digitais"
+title:  "Optativa 2019-1: Tópicos em Jogos Digitais"
 date:   2018-12-18 12:42:46 -0300
 categories: news
 ---
