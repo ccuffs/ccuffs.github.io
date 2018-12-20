@@ -19,5 +19,5 @@ permalink: /docentes/
 | Dr. José Carlos Bins Filho  |	<jose.binsfilho@uffs.edu.br>  |	[Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4782175D9)  	 |
 | Dr. Leandro Mirando Zatesko |	<leandro.zatesko@uffs.edu.br>  |	[Lattes](http://lattes.cnpq.br/4259616811045288) 	|
 | Me. Luciano Lores Caimi |	<lcaimi@uffs.edu.br> |	[Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4790813H0)  	|
-| Dr. Marco Aurélio Spohn |	<marco.spohn@gmail.com> | 	[Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4790248U1) 	 |
+| Dr. Marco Aurélio Spohn |	<marco.spohn@uffs.edu.br> | 	[Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4790248U1) 	 |
 | Dra. Raquel Aparecida Pegoraro |	<raquel.pegoraro@uffs.edu.br> |	[Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4776788T1) 	|
