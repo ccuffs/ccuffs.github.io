@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Optativa 2019-1: TÓPICOS ESPECIAIS EM COMPUTAÇÃO X"
+title:  "Optativa 2019-1: Tópicos Especiais em Computação X"
 date:   2019-2-11 12:42:46 -0300
 categories: news
 ---
@@ -8,7 +8,7 @@ categories: news
 
 - Código: Tópicos Especiais em Computação X
 - Professor: Denio Duarte
-- NOME: Tópicos em Jogos Digitais
+- NOME: Tópicos em Aprendizado de Máquina
 
 # EMENTA:
 
