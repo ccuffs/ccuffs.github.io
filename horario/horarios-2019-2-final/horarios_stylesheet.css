@@ -1,0 +1,83 @@
+﻿@charset "UTF-8";
+
+/* Folha de estilo CSS de horarios.fet
+   Folha de estilos gerada por FET 5.37.5 em 22/05/2019 14:40 */
+
+/* Para que as páginas sejam separadas a cada duas tabelas, delete "page-break-before: always;" em "table.even_table". */
+/* Excluir "page-break-before: always;" em "table.even_table" e em "table.odd_table" para pular as quebras de página. */
+/* Para ocultar um elemento, basta escrever a seguinte expressão no elemento: "display:none;" (sem aspas). */
+
+p.back {
+  margin-top: 4ex;
+  margin-bottom: 5ex;
+}
+
+table {
+  text-align: center;
+  page-break-inside: avoid;
+}
+
+table.odd_table {
+  page-break-before: always;
+}
+
+table.even_table {
+  page-break-before: always;
+}
+
+table.detailed {
+  margin-left:auto; margin-right:auto;
+  text-align: center;
+  border: 0px;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+caption {
+
+}
+
+thead {
+
+}
+
+/* Usamos "tr.foot" pois alguns programas importam "tfoot" incorretamente. */
+
+tr.foot {
+
+}
+
+tbody {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+td.detailed {
+  border: 1px dashed silver;
+  border-bottom: 0;
+  border-top: 0;
+}
+
+th.xAxis {
+/* width: 8em; */
+}
+
+th.yAxis {
+  height: 8ex;
+}
+
+/* Completar as horas livres dos professores */
+
+div.DESCRIPTION {
+  text-align: left;
+  font-size: smaller;
+}
+
+/* Final do arquivo. */
