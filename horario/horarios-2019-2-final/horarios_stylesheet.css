@@ -7,8 +7,24 @@
 /* Excluir "page-break-before: always;" em "table.even_table" e em "table.odd_table" para pular as quebras de página. */
 /* Para ocultar um elemento, basta escrever a seguinte expressão no elemento: "display:none;" (sem aspas). */
 
+* {
+  font-family: "Roboto", sans-serif;
+}
+
 body {
+  padding-top: 40px;
   text-align: center;
+}
+
+a:link,
+a:active,
+a:visited {
+  color: #121212;
+}
+
+a:hover {
+  color: #121212;
+  font-weight: bold;
 }
 
 p.back {
@@ -19,14 +35,65 @@ p.back {
   margin: 0 auto;
 }
 
-ul {
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  list-style-position: inside;
-  padding-top: 30px;
+.hero {
+  width: 80%;
+  margin: 0 auto;
 }
 
+.hero div.icon {
+  float: left;
+  font-size: 6em;
+  margin-right: 30px;
+  padding-top: 10px;
+  color: #003f00;
+}
+
+.hero div.content h2 {
+  padding-top: 20px;
+  margin: 5px;
+  font-weight: bolder;
+}
+
+.hero div.content strong,
+.hero div.content p {
+  line-height: 1.0em;
+}
+
+.hero div.content strong {
+  font-size: 1.2em;
+}
+
+.hero div.content i {
+  font-size: 1.2em;
+  line-height: 0.5em;
+}
+
+.header {
+  background: #b4ffb4;
+}
+
+ul {
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+  list-style-position: inside;
+  padding-top: 40px;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+ul li {
+  display: block;
+  float: left;
+  height: 50px;
+  margin-right: 4em;
+  text-transform: uppercase;
+}
+
+ul li i {
+  margin-right: 5px;
+  color: #c0c0c0;
+}
 
 table {
   text-align: center;
