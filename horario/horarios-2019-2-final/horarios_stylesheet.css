@@ -7,14 +7,37 @@
 /* Excluir "page-break-before: always;" em "table.even_table" e em "table.odd_table" para pular as quebras de página. */
 /* Para ocultar um elemento, basta escrever a seguinte expressão no elemento: "display:none;" (sem aspas). */
 
-p.back {
-  margin-top: 4ex;
-  margin-bottom: 5ex;
+body {
+  text-align: center;
 }
+
+p.back {
+  width: 80%;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  text-align: right;
+  margin: 0 auto;
+}
+
+ul {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  list-style-position: inside;
+  padding-top: 30px;
+}
+
 
 table {
   text-align: center;
   page-break-inside: avoid;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80% !important;
+}
+
+td {
+  vertical-align: middle !important;
 }
 
 table.odd_table {
